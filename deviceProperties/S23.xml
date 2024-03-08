@@ -1,0 +1,9 @@
+<capabilities>
+    <capability name="platformName">Android</capability>
+    <capability name="deviceName">RFCW610WYTJ</capability>
+    <capability name="automationName">UiAutomator2</capability>
+    <capability name="appPackage">com.togg.trugoapp.preprod</capability>
+    <capability name="appActivity">com.togg.trugoapp.controller.activity.SplashActivity</capability>
+    <capability name="noReset">false</capability>
+    <capability name="fullReset">false</capability>
+</capabilities>

@@ -1,0 +1,22 @@
+Created by karya.boyraz on 27.02.2024
+
+This is a concept file with following syntax for each concept.
+#Login with <phonenumber> phone number
+* Write text <phonenumber> to this element "editText"
+* Click button "Oturum Aç"
+* Check Login is successful to OTP Page
+* Write OTP code
+
+#Check Login is successful to Main Page
+* Find element "searchLayout"
+* Find element "mainToolbarLayout"
+* Find element "ivSettings"
+
+#Check Login is successful to OTP Page
+* Find element "Kalan süre"
+* Find element "Kodu Yeniden Gönder"
+
+#Full login process with <phonenumber> phone number
+* Login with <phonenumber> phone number
+* Click element "Uygulamayı kullanırken"
+* Check Login is successful to Main Page

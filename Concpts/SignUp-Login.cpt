@@ -1,0 +1,9 @@
+Created by karya.boyraz on 27.02.2024
+
+This is a concept file with following syntax for each concept.
+
+# Fill the form with valid data
+* Write text "İsim" to this element "Test Name"
+* Write text "Soyisim" to this element "Test Surname"
+* Write text "Telefon" to this element "5342252816"
+* Write text "E-posta" to this element "karya.poyraz@gmail.com"
